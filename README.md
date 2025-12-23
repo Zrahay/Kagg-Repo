@@ -3,7 +3,7 @@ Kaggle Contests - Machine Learning Experiments
 This repository contains my solutions, experiments that I performed in the Kaggle Competitions that I had participated in. My goal by participating in these Kaggle Competitions was to level up my understanding related to Core Machine Learning Algorithms and Data Pre processing and various edge cases that we need to handle ususally.
 
 Competitions Covered:
-1.) Predicting Road Accident Risk (https://www.kaggle.com/competitions/playground-series-s5e10/leaderboard)
+1.) Predicting Road Accident Risk (https://www.kaggle.com/competitions/playground-series-s5e10)
 
 A contest which involved me training Machine Learning models to predict the Likelihood of accidents on different types of roads using features such as 
 
