@@ -75,3 +75,10 @@ A contest where I had to develop Machine Learning Solutions to predict if the gi
 
        num_of_delinquencies (int64) – Total delinquencies (missed payments).
     
+
+Prequisites
+ -Python 3.8+
+
+ Setup
+ Clone the repository:
+ git clone https://github.com/Zrahay/Kagg-Repo.git
