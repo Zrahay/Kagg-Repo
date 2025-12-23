@@ -13,7 +13,7 @@ A contest which involved me training Machine Learning models to predict the Like
     Holiday or school season flags
     Speed limits, time of day, and more
 
-2.) Predicting the Beats-per-Minute Of Songs
+2.) Predicting the Beats-per-Minute Of Songs (https://www.kaggle.com/competitions/playground-series-s5e9)
 
 A contest related to developing Machine learning solutions to predict the BeatsPerMinute based on Music Track BPM data. The features that I worked with this in contest are as listed below
 
@@ -22,7 +22,7 @@ A contest related to developing Machine learning solutions to predict the BeatsP
     InstrumentalScore and LivePerformance
     MoodScore and TrackDurationMs
     Energy
-3.) Predicting Loan Payback
+3.) Predicting Loan Payback (https://www.kaggle.com/competitions/playground-series-s5e11/data)
 
 A contest where I had to develop Machine Learning Solutions to predict if the given customer with the give features will be able to payback the loan or not. The features that I worked with are listed below
 
